@@ -43,7 +43,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define MATRIX_ROW_PINS { F7, B1, B3, B2, B6 } //Wade Orig
 //// #define MATRIX_COL_PINS { B5, B4, E6, D7, C6 }
 
-#define MATRIX_COL_PINS { B1, B2, B3, B7, D0, D1 }
+#define MATRIX_COL_PINS { D1, D0, B7, B3, B2, B1 }
 //#define MATRIX_COL_PINS { C6, D7, E6, B4, B5 } //Wade Orig
 
 /* define if matrix has ghost */
